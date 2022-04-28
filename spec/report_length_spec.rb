@@ -1,4 +1,4 @@
-require 'report_length.rb'
+require_relative '../programs/report_length.rb'
 
 RSpec.describe "report_length method" do
     it "checks the length of the given string" do

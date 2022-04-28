@@ -1,4 +1,4 @@
-require 'check_codeword.rb'
+require_relative '../programs/check_codeword.rb'
 
 # 6 tests
 

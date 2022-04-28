@@ -1,4 +1,4 @@
-require 'greet.rb'
+require_relative '../programs/greet.rb'
 
 RSpec.describe "greet method" do
   it "input name, outputs Hello with name and !" do
